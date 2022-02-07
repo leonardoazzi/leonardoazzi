@@ -4,7 +4,7 @@
 <h1 align="center">Hello, I'm Leonardo Azzi Martins!👋</h1>
 
 <p align="center">Graduate Mechatronics Technician at IFSul Charqueadas in 2017.</p> 
-<p align="center">I am currently a student of Computer Engineering at UFRGS.</p>
+<p align="center">I am currently a Computer Engineering student at UFRGS.</p>
 
 
 <div align="center">
