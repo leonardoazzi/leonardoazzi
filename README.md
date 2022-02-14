@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello, I'm Leonardo Azzi Martins 🐧🦿</h1>
 
-<p align="left">Graduate Mechatronics Technician at IFSul Charqueadas (2014-2017). Currently Computer Engineering student at UFRGS. 🇧🇷</p> 
+<p align="left">Mechatronics Technician graduate at IFSul Charqueadas (2014-2017). Currently Computer Engineering student at UFRGS. 🇧🇷</p> 
 
 - 🧑‍💻 Software Research and Development, focused in A-Frame, Three.js and Unity;
 - 👾 VR, AR and XR Developer for the web;
