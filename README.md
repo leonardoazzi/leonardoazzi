@@ -1,11 +1,15 @@
 
    
 
-<h1 align="center">Hello, I'm Leonardo Azzi Martins!👋</h1>
+<h1 align="center">Hello, I'm Leonardo Azzi Martins 🐧🦿</h1>
 
-<p align="center">Graduate Mechatronics Technician at IFSul Charqueadas in 2017.</p> 
-<p align="center">I am currently a Computer Engineering student at UFRGS.</p>
+<p align="left">Graduate Mechatronics Technician at IFSul Charqueadas (2014-2017). Currently Computer Engineering student at UFRGS. 🇧🇷</p> 
 
+- 🧑‍💻 Software Research and Development, focused in A-Frame, Three.js and Unity;
+- 👾 VR, AR and XR Developer for the web;
+- 🤖 Machine Learning experienced;
+- 🦿 Creator of a robotic prosthetic limb;
+- 🐧 A Free Software enthusiast.
 
 <div align="center">
   <a href=https://www.linkedin.com/in/leonardoazzi//>
@@ -20,10 +24,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
 </div>
-
-                                                               /)―ヘ 
-                                                            ＿／　　　＼
-                                                         ／　　　●　　●丶
-                                                        ｜　　　　　▼　 | 
-                                                        ｜　　　　　w  ノ 
-                                                           U￣U￣￣￣U
