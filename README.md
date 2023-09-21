@@ -1,9 +1,9 @@
 
 <h1 align="left">Leonardo Azzi Martins 🐧🦿</h1>
 
-<p align="left">BEng. Computer Engineering, UFRGS</p> 
+<p align="left">BEng. Computer Science, UFRGS</p> 
 
-<p align="left">Lead Software Engineer, DBLab</p> 
+<p align="left">Visual Computing Lead, DBLab</p> 
 
 <p align="left">Mechatronics Technician, IFSUL Charqueadas</p> 
 
