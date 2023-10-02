@@ -1,7 +1,7 @@
 
 <h1 align="left">Leonardo Azzi Martins 🐧🦿</h1>
 
-<p align="left">BEng. Computer Science, UFRGS</p> 
+<p align="left">BSc. Computer Science, UFRGS</p> 
 
 <p align="left">Visual Computing Lead, DBLab</p> 
 
