@@ -83,5 +83,15 @@
     <a href=https://www.linkedin.com/in/leonardoazzi//>
     <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="linux" style="vertical-align:top; margin:6px 4px">
   </a>
+
+## 📧 &nbsp;Contact me:
+<p align="left">
+	<a href="[https://www.linkedin.com/in/claudinoac/](https://www.linkedin.com/in/leonardoazzi/)">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:lamartins@inf.ufrgs.br">
+		<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=thunderbird&logoColor=white" />
+	</a>
+</p>
    
 </div>
