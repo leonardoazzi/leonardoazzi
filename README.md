@@ -11,7 +11,7 @@
 - <p align="left">Porto Alegre, Brasil 🇧🇷</p> 
 
 ## 🛠 &nbsp;Tech Stack:
-### 💻 &nbsp;Languages:
+### &nbsp;Languages:
 
 <p align="left"></p> 
 
@@ -27,7 +27,7 @@
   </a>
  </div>
  
-### 🚀 &nbsp;Technologies:
+### &nbsp;Technologies:
  
 <div alight="left">
   </a>
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="node" style="vertical-align:top; margin:6px 4px">
     </a>
 
-### 💻 &nbsp;Current OS: 
+### &nbsp;Current OS: 
   </a>
     <a href=https://www.linkedin.com/in/leonardoazzi//>
     <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="linux" style="vertical-align:top; margin:6px 4px">
