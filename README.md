@@ -1,6 +1,3 @@
-
-<h1 align="left">Leonardo Azzi Martins 🐧🦿</h1>
-
 ### &nbsp;About Me:
 
 - <p align="left">BSc. Computer Science undergraduate student @ <a href="https://ufrgs.br">UFRGS</a>, <a href="https://inf.ufrgs.br">Informatics Institute (INF)</a></p> 
